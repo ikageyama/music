@@ -1,0 +1,572 @@
+{ "cat":"", "pid":12345, "tid":0, "ts":0, "ph":"M", "name":"process_name", "args": { "name":"bee_backend" } }
+,{ "pid":12345, "tid":0, "ts":1749445964230421, "dur":1455, "ph":"X", "name": "DriverInitData",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445964231884, "dur":39, "ph":"X", "name": "Tundra",  "args": { "detail":"RemoveStaleOutputs" }}
+,{ "pid":12345, "tid":0, "ts":1749445964231932, "dur":15, "ph":"X", "name": "Tundra",  "args": { "detail":"PrepareNodes" }}
+,{ "pid":12345, "tid":0, "ts":1749445964231949, "dur":620, "ph":"X", "name": "Tundra",  "args": { "detail":"BuildQueueInit" }}
+,{ "pid":12345, "tid":0, "ts":1749445964232609, "dur":416, "ph":"X", "name": "EnqueueRequestedNodes",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445964233025, "dur":1, "ph":"X", "name": "SortWorkingStack",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965447906, "dur":269, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448175, "dur":27, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448202, "dur":63, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448265, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448271, "dur":2, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448273, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448279, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448280, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448285, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448286, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448291, "dur":0, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448291, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448297, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448298, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448302, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448303, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448308, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448309, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448314, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448315, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448319, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448320, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448325, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448326, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448330, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448331, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448336, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448337, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448341, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448342, "dur":6, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448348, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448349, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448353, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448354, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448359, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448360, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448364, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448365, "dur":5, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448370, "dur":1, "ph":"X", "name": "JoinBuildThread",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448371, "dur":4, "ph":"X", "name": "ThreadStateDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448375, "dur":0, "ph":"X", "name": "SharedResourceDestroy",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448391, "dur":1, "ph":"X", "name": "BuildQueueDestroyTail",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965448407, "dur":1215, "ph":"X", "name": "Tundra",  "args": { "detail":"Write AllBuiltNodes" }}
+,{ "pid":12345, "tid":1, "ts":1749445964233688, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1749445964233689, "dur":2784, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1749445964236473, "dur":10288, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1749445964246765, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1749445964246780, "dur":2660, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/2.0/web.config" }}
+,{ "pid":12345, "tid":1, "ts":1749445964249476, "dur":5212, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749445964254691, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1749445964255580, "dur":3833, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.VRModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749445964259438, "dur":9039, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749445964268480, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1749445964268550, "dur":2723, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UIElementsModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749445964271306, "dur":3271, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749445964274579, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1749445964274585, "dur":1808, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.NVIDIAModule.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749445964276414, "dur":4689, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749445964281107, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1749445964281114, "dur":2821, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749445964283967, "dur":53670, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749445964337641, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1749445964337648, "dur":1501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/Unity.VisualScripting.State.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749445964339180, "dur":32048, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749445964371230, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1749445964371236, "dur":888, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.EnterpriseServices.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749445964372142, "dur":579424, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749445964951619, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":1, "ts":1749445964951637, "dur":3433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Data.dll" }}
+,{ "pid":12345, "tid":1, "ts":1749445964955091, "dur":492972, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1749445964233863, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1749445964233864, "dur":2600, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1749445964236465, "dur":137, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1749445964236606, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1749445964243296, "dur":3682, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/4.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":2, "ts":1749445964247050, "dur":7658, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1749445964254711, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1749445964255740, "dur":4699, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.WindModule.dll" }}
+,{ "pid":12345, "tid":2, "ts":1749445964260474, "dur":608643, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1749445964869126, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":2, "ts":1749445964869143, "dur":1206, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UI.dll" }}
+,{ "pid":12345, "tid":2, "ts":1749445964870367, "dur":577680, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1749445964233969, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1749445964233970, "dur":2383, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1749445964236361, "dur":10278, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1749445964246642, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1749445964246739, "dur":3122, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/4.5/web.config" }}
+,{ "pid":12345, "tid":3, "ts":1749445964249894, "dur":6438, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1749445964256335, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1749445964257358, "dur":6562, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.VehiclesModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1749445964263945, "dur":5783, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1749445964269732, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1749445964269738, "dur":4398, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.TerrainModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1749445964274176, "dur":3933, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1749445964278113, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1749445964278121, "dur":4858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.HotReloadModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1749445964283083, "dur":4278, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1749445964287365, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1749445964287372, "dur":5942, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.AIModule.dll" }}
+,{ "pid":12345, "tid":3, "ts":1749445964293378, "dur":124091, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1749445964417472, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1749445964417480, "dur":937, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Security.dll" }}
+,{ "pid":12345, "tid":3, "ts":1749445964418437, "dur":33348, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1749445964451789, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1749445964451796, "dur":745, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Data.DataSetExtensions.dll" }}
+,{ "pid":12345, "tid":3, "ts":1749445964452561, "dur":990055, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1749445965442620, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":3, "ts":1749445965442626, "dur":5179, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Configuration.dll" }}
+,{ "pid":12345, "tid":3, "ts":1749445965447828, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"Player" }}
+,{ "pid":12345, "tid":3, "ts":1749445965447831, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749445964233440, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749445964233440, "dur":3199, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749445964236639, "dur":2981, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749445964239625, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749445964240315, "dur":2438, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/MonoBleedingEdge/EmbedRuntime/MonoPosixHelper.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749445964242795, "dur":5121, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game.exe" }}
+,{ "pid":12345, "tid":4, "ts":1749445964247918, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749445964247923, "dur":2144, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game.exe" }}
+,{ "pid":12345, "tid":4, "ts":1749445964250104, "dur":4641, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749445964254748, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749445964255789, "dur":4931, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UnityWebRequestTextureModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749445964260743, "dur":3898, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749445964264645, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749445964264653, "dur":2934, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.TLSModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749445964267618, "dur":7899, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749445964275521, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749445964275530, "dur":2430, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.ProfilerModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749445964278016, "dur":7591, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749445964285610, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749445964285617, "dur":3664, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.CrashReportingModule.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749445964289334, "dur":467198, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749445964756541, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":4, "ts":1749445964756558, "dur":5174, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Xml.Linq.dll" }}
+,{ "pid":12345, "tid":4, "ts":1749445964761792, "dur":686246, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749445964233472, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749445964233473, "dur":3163, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749445964236636, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1749445964236757, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749445964252011, "dur":4580, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/browscap.ini" }}
+,{ "pid":12345, "tid":5, "ts":1749445964256616, "dur":4498, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749445964261118, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749445964261157, "dur":4959, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UnityAnalyticsCommonModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749445964266149, "dur":5170, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749445964271322, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749445964271329, "dur":3509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.SpriteMaskModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749445964274925, "dur":3684, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749445964278613, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749445964278619, "dur":5152, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.GridModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749445964283828, "dur":6731, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749445964290565, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749445964290576, "dur":6181, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.AccessibilityModule.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749445964296788, "dur":421418, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749445964718212, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":5, "ts":1749445964718223, "dur":1546, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.IO.Compression.dll" }}
+,{ "pid":12345, "tid":5, "ts":1749445964719819, "dur":728084, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1749445964233748, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1749445964233748, "dur":2866, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1749445964236615, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1749445964236814, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1749445964239894, "dur":2314, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/2.0/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":6, "ts":1749445964242332, "dur":7715, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1749445964250050, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1749445964250057, "dur":3424, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/UnityCrashHandler64.exe" }}
+,{ "pid":12345, "tid":6, "ts":1749445964253516, "dur":5714, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1749445964259233, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1749445964259237, "dur":6555, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UnityWebRequestAudioModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1749445964265818, "dur":3547, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1749445964269369, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1749445964269376, "dur":2663, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.SpriteShapeModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1749445964272073, "dur":3790, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1749445964275865, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1749445964275870, "dur":2440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.LocalizationModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1749445964278344, "dur":10628, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1749445964289168, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1749445964289178, "dur":7514, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.CoreModule.dll" }}
+,{ "pid":12345, "tid":6, "ts":1749445964296726, "dur":73966, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1749445964370696, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1749445964370703, "dur":803, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.IO.Compression.FileSystem.dll" }}
+,{ "pid":12345, "tid":6, "ts":1749445964371529, "dur":692864, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1749445965064396, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":6, "ts":1749445965064403, "dur":34741, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.dll" }}
+,{ "pid":12345, "tid":6, "ts":1749445965099214, "dur":348868, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749445964234184, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749445964234184, "dur":2272, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749445964236457, "dur":10492, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1749445964246953, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749445964246972, "dur":3139, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/4.0/machine.config" }}
+,{ "pid":12345, "tid":7, "ts":1749445964250144, "dur":5884, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749445964256031, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749445964257034, "dur":6389, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UnityWebRequestModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749445964263489, "dur":5871, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749445964269364, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749445964269372, "dur":3225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.TextCoreFontEngineModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749445964272629, "dur":5546, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749445964278178, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749445964278183, "dur":4476, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.InputLegacyModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749445964282686, "dur":3704, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749445964286393, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749445964286401, "dur":3327, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.AndroidJNIModule.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749445964289760, "dur":419807, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749445964709573, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":7, "ts":1749445964709583, "dur":4951, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.ServiceModel.Internals.dll" }}
+,{ "pid":12345, "tid":7, "ts":1749445964714575, "dur":733339, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1749445964234319, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1749445964234320, "dur":2025, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1749445964236359, "dur":43395, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":8, "ts":1749445964279757, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1749445964280780, "dur":1584, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/mconfig/config.xml" }}
+,{ "pid":12345, "tid":8, "ts":1749445964282404, "dur":6781, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1749445964289189, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1749445964289196, "dur":7194, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.AnimationModule.dll" }}
+,{ "pid":12345, "tid":8, "ts":1749445964296444, "dur":335287, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1749445964631736, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1749445964631745, "dur":1340, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Net.Http.dll" }}
+,{ "pid":12345, "tid":8, "ts":1749445964633121, "dur":35, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":8, "ts":1749445964633159, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1749445964633166, "dur":2048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/sharedassets1.assets" }}
+,{ "pid":12345, "tid":8, "ts":1749445964635249, "dur":34, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1749445964635285, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1749445964635293, "dur":1835, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/sharedassets0.assets.resS" }}
+,{ "pid":12345, "tid":8, "ts":1749445964637152, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":8, "ts":1749445964637189, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1749445964637194, "dur":1151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/sharedassets0.assets" }}
+,{ "pid":12345, "tid":8, "ts":1749445964638367, "dur":8195, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1749445964646567, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1749445964646575, "dur":12066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/RuntimeInitializeOnLoads.json" }}
+,{ "pid":12345, "tid":8, "ts":1749445964658684, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/level2.resS" }}
+,{ "pid":12345, "tid":8, "ts":1749445964658707, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1749445964658711, "dur":17916, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/level2.resS" }}
+,{ "pid":12345, "tid":8, "ts":1749445964676650, "dur":22, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1749445964676674, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1749445964676678, "dur":9858, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/level1" }}
+,{ "pid":12345, "tid":8, "ts":1749445964686560, "dur":26, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1749445964686605, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":8, "ts":1749445964686610, "dur":9970, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/globalgamemanagers.assets" }}
+,{ "pid":12345, "tid":8, "ts":1749445964696655, "dur":751246, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1749445964233515, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1749445964233516, "dur":3113, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1749445964236630, "dur":109, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":9, "ts":1749445964236741, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1749445964251618, "dur":3412, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/config" }}
+,{ "pid":12345, "tid":9, "ts":1749445964255066, "dur":3788, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749445964258857, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1749445964258863, "dur":5501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UnityAnalyticsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749445964264396, "dur":3953, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749445964268352, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1749445964268357, "dur":1941, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.SubsystemsModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749445964270395, "dur":3950, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749445964274348, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1749445964274355, "dur":2510, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.Physics2DModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749445964276975, "dur":5962, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749445964282939, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1749445964282944, "dur":3971, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.DirectorModule.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749445964286977, "dur":1150, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749445964288131, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1749445964288138, "dur":6482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/Unity.RenderPipelines.Core.ShaderLibrary.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749445964294653, "dur":306911, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749445964601570, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1749445964601616, "dur":2032, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Numerics.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749445964603695, "dur":2327, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/ExcelImporter.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749445964606028, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1749445964606040, "dur":2791, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/ExcelImporter.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749445964608888, "dur":120904, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749445964729799, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":9, "ts":1749445964729814, "dur":2292, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/Assembly-CSharp.dll" }}
+,{ "pid":12345, "tid":9, "ts":1749445964732166, "dur":715875, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1749445964233730, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1749445964233731, "dur":2734, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1749445964236465, "dur":108, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1749445964236576, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1749445964239118, "dur":3156, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/2.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":10, "ts":1749445964242300, "dur":117963, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":10, "ts":1749445964360267, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1749445964360273, "dur":8509, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/UnityPlayer.dll" }}
+,{ "pid":12345, "tid":10, "ts":1749445964368808, "dur":671093, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":10, "ts":1749445965039904, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":10, "ts":1749445965039911, "dur":1293, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Drawing.dll" }}
+,{ "pid":12345, "tid":10, "ts":1749445965041264, "dur":406642, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1749445964233668, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1749445964233669, "dur":2918, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1749445964236588, "dur":57, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1749445964236646, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1749445964251254, "dur":2393, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/2.0/settings.map" }}
+,{ "pid":12345, "tid":11, "ts":1749445964253682, "dur":4859, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1749445964258559, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1749445964258564, "dur":5202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UnityWebRequestAssetBundleModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1749445964263833, "dur":4611, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1749445964268447, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1749445964268454, "dur":2276, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.TerrainPhysicsModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1749445964270760, "dur":6264, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1749445964277028, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1749445964277035, "dur":2231, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.ParticleSystemModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1749445964279307, "dur":5393, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1749445964284703, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1749445964284712, "dur":2282, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.ClusterInputModule.dll" }}
+,{ "pid":12345, "tid":11, "ts":1749445964287037, "dur":625548, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1749445964912595, "dur":4, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":11, "ts":1749445964912614, "dur":5732, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/Unity.RenderPipelines.Core.Runtime.dll" }}
+,{ "pid":12345, "tid":11, "ts":1749445964918413, "dur":529656, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749445964233785, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749445964233786, "dur":2817, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749445964236603, "dur":9979, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1749445964246588, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749445964246714, "dur":2747, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/2.0/machine.config" }}
+,{ "pid":12345, "tid":12, "ts":1749445964249497, "dur":5039, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749445964254540, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749445964255059, "dur":3707, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.VirtualTexturingModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749445964258828, "dur":4244, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749445964263075, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749445964263082, "dur":3441, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UIElementsNativeModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749445964266556, "dur":4744, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749445964271322, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749445964271329, "dur":2501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.RuntimeInitializeOnLoadManagerInitializerModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749445964273868, "dur":5466, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749445964279338, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749445964279347, "dur":4864, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.IMGUIModule.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749445964284240, "dur":352539, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749445964636785, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749445964636796, "dur":1526, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/Unity.VisualScripting.Core.dll" }}
+,{ "pid":12345, "tid":12, "ts":1749445964638352, "dur":75, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":12, "ts":1749445964638429, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749445964638433, "dur":753, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/ScriptingAssemblies.json" }}
+,{ "pid":12345, "tid":12, "ts":1749445964639208, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":12, "ts":1749445964639230, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749445964639235, "dur":940, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/resources.assets.resS" }}
+,{ "pid":12345, "tid":12, "ts":1749445964640208, "dur":31, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/resources.assets" }}
+,{ "pid":12345, "tid":12, "ts":1749445964640242, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749445964640248, "dur":18017, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/resources.assets" }}
+,{ "pid":12345, "tid":12, "ts":1749445964658289, "dur":23, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/level3" }}
+,{ "pid":12345, "tid":12, "ts":1749445964658330, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749445964658335, "dur":9225, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/level3" }}
+,{ "pid":12345, "tid":12, "ts":1749445964667584, "dur":21, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/level1.resS" }}
+,{ "pid":12345, "tid":12, "ts":1749445964667606, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749445964667610, "dur":18758, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/level1.resS" }}
+,{ "pid":12345, "tid":12, "ts":1749445964686404, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/level0" }}
+,{ "pid":12345, "tid":12, "ts":1749445964686430, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749445964686435, "dur":9343, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/level0" }}
+,{ "pid":12345, "tid":12, "ts":1749445964695822, "dur":118, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/boot.config" }}
+,{ "pid":12345, "tid":12, "ts":1749445964695942, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":12, "ts":1749445964695946, "dur":1151, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/boot.config" }}
+,{ "pid":12345, "tid":12, "ts":1749445964697122, "dur":750776, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1749445964233703, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1749445964233703, "dur":2647, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1749445964236358, "dur":78, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1749445964236440, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1749445964238816, "dur":2323, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/4.5/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":13, "ts":1749445964241165, "dur":35466, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":13, "ts":1749445964276635, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1749445964276698, "dur":4843, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/MonoBleedingEdge/EmbedRuntime/mono-2.0-bdwgc.dll" }}
+,{ "pid":12345, "tid":13, "ts":1749445964281575, "dur":4003, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1749445964285581, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1749445964285590, "dur":3946, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.ARModule.dll" }}
+,{ "pid":12345, "tid":13, "ts":1749445964289564, "dur":193635, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":13, "ts":1749445964483203, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1749445964483210, "dur":880, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Transactions.dll" }}
+,{ "pid":12345, "tid":13, "ts":1749445964484109, "dur":375101, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":13, "ts":1749445964859220, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":13, "ts":1749445964859238, "dur":1614, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.ComponentModel.Composition.dll" }}
+,{ "pid":12345, "tid":13, "ts":1749445964860873, "dur":587173, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749445964233995, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749445964233996, "dur":2428, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749445964236426, "dur":196, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1749445964236625, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749445964250882, "dur":3283, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/4.5/DefaultWsdlHelpGenerator.aspx" }}
+,{ "pid":12345, "tid":14, "ts":1749445964254203, "dur":3921, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749445964258126, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749445964258132, "dur":4628, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UnityTestProtocolModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749445964262814, "dur":3948, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749445964266766, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749445964266774, "dur":1199, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.TilemapModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749445964268012, "dur":5769, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749445964273784, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749445964273789, "dur":2357, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.PhysicsModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749445964276215, "dur":4225, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749445964280443, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749445964280448, "dur":3757, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.DSPGraphModule.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749445964284235, "dur":356352, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749445964640591, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749445964640599, "dur":9048, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/Unity.VisualScripting.Flow.dll" }}
+,{ "pid":12345, "tid":14, "ts":1749445964649673, "dur":24, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/level3.resS" }}
+,{ "pid":12345, "tid":14, "ts":1749445964649698, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749445964649703, "dur":9202, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/level3.resS" }}
+,{ "pid":12345, "tid":14, "ts":1749445964658926, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/level2" }}
+,{ "pid":12345, "tid":14, "ts":1749445964658947, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749445964658951, "dur":18059, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/level2" }}
+,{ "pid":12345, "tid":14, "ts":1749445964677032, "dur":20, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/level0.resS" }}
+,{ "pid":12345, "tid":14, "ts":1749445964677053, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749445964677057, "dur":18483, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/level0.resS" }}
+,{ "pid":12345, "tid":14, "ts":1749445964695571, "dur":27, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":14, "ts":1749445964695599, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":14, "ts":1749445964695605, "dur":1261, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/globalgamemanagers" }}
+,{ "pid":12345, "tid":14, "ts":1749445964696898, "dur":751002, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749445964233225, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749445964233228, "dur":3113, "ph":"X", "name": "CheckDagSignatures",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749445964236618, "dur":1, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"WriteText Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":15, "ts":1749445964236621, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749445964252464, "dur":375, "ph":"X", "name": "WriteText",  "args": { "detail":"Library/Bee/artifacts/WinPlayerBuildProgram/Data/app.info" }}
+,{ "pid":12345, "tid":15, "ts":1749445964252842, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/app.info" }}
+,{ "pid":12345, "tid":15, "ts":1749445964252891, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749445964252937, "dur":1678, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/app.info" }}
+,{ "pid":12345, "tid":15, "ts":1749445964254617, "dur":3633, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749445964258252, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749445964258256, "dur":4967, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UnityCurlModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749445964263250, "dur":10320, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749445964273573, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749445964273578, "dur":1487, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.TextRenderingModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749445964275087, "dur":4769, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749445964279860, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749445964279867, "dur":5377, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.GameCenterModule.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749445964285277, "dur":868110, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749445965153397, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":15, "ts":1749445965153414, "dur":2842, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/Unity.TextMeshPro.dll" }}
+,{ "pid":12345, "tid":15, "ts":1749445965156319, "dur":291724, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1749445964234102, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1749445964234102, "dur":2307, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1749445964236410, "dur":10621, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1749445964247034, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1749445964247061, "dur":2666, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/4.5/machine.config" }}
+,{ "pid":12345, "tid":16, "ts":1749445964249752, "dur":5345, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1749445964255099, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1749445964255128, "dur":3640, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.VFXModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1749445964258821, "dur":4006, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1749445964262831, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1749445964262839, "dur":3403, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UIModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1749445964266278, "dur":4284, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1749445964270565, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1749445964270572, "dur":3183, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.SharedInternalsModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1749445964273977, "dur":4233, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1749445964278214, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1749445964278220, "dur":3066, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.ImageConversionModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1749445964281320, "dur":5023, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1749445964286347, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1749445964286355, "dur":2980, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.AssetBundleModule.dll" }}
+,{ "pid":12345, "tid":16, "ts":1749445964289371, "dur":904211, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":16, "ts":1749445965193587, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":16, "ts":1749445965193594, "dur":14036, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Xml.dll" }}
+,{ "pid":12345, "tid":16, "ts":1749445965207697, "dur":240383, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1749445964234225, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1749445964234225, "dur":2229, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1749445964236455, "dur":131, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":17, "ts":1749445964236588, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1749445964243012, "dur":1626, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/4.0/settings.map" }}
+,{ "pid":12345, "tid":17, "ts":1749445964244674, "dur":11761, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1749445964256438, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1749445964258124, "dur":5226, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.XRModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1749445964263401, "dur":5311, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1749445964268716, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1749445964268722, "dur":1637, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.TextCoreTextEngineModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1749445964270444, "dur":5090, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1749445964275537, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1749445964275544, "dur":3440, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.PerformanceReportingModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1749445964279024, "dur":3862, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1749445964282910, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1749445964282919, "dur":1986, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.ClusterRendererModule.dll" }}
+,{ "pid":12345, "tid":17, "ts":1749445964285004, "dur":200406, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":17, "ts":1749445964485413, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1749445964485418, "dur":1349, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/Unity.VisualScripting.Antlr3.Runtime.dll" }}
+,{ "pid":12345, "tid":17, "ts":1749445964486789, "dur":29782, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":17, "ts":1749445964516574, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1749445964516581, "dur":838, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/netstandard.dll" }}
+,{ "pid":12345, "tid":17, "ts":1749445964517439, "dur":728075, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":17, "ts":1749445965245523, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":17, "ts":1749445965245540, "dur":2417, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/Mono.Security.dll" }}
+,{ "pid":12345, "tid":17, "ts":1749445965248020, "dur":200044, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1749445964233933, "dur":1, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1749445964233934, "dur":2500, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1749445964236434, "dur":10760, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":18, "ts":1749445964247196, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1749445964247207, "dur":2793, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/4.0/web.config" }}
+,{ "pid":12345, "tid":18, "ts":1749445964250025, "dur":4447, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1749445964254476, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1749445964254874, "dur":2889, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UnityWebRequestWWWModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1749445964257792, "dur":5369, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1749445964263163, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1749445964263168, "dur":3286, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UNETModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1749445964266504, "dur":3374, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1749445964269881, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1749445964269886, "dur":2331, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.ScreenCaptureModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1749445964272249, "dur":4985, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1749445964277238, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1749445964277244, "dur":2093, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.JSONSerializeModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1749445964279374, "dur":3700, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1749445964283077, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1749445964283083, "dur":3482, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.ClothModule.dll" }}
+,{ "pid":12345, "tid":18, "ts":1749445964286598, "dur":1043, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":18, "ts":1749445964287645, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1749445964287652, "dur":6318, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/Unity.RenderPipelines.ShaderGraph.ShaderGraphLibrary.dll" }}
+,{ "pid":12345, "tid":18, "ts":1749445964294007, "dur":625369, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":18, "ts":1749445964919384, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":18, "ts":1749445964919400, "dur":2492, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Runtime.Serialization.dll" }}
+,{ "pid":12345, "tid":18, "ts":1749445964921912, "dur":526010, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1749445964234246, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1749445964234246, "dur":2187, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1749445964236434, "dur":145, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":19, "ts":1749445964236581, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1749445964241686, "dur":1558, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/4.0/Browsers/Compat.browser" }}
+,{ "pid":12345, "tid":19, "ts":1749445964243280, "dur":88, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":19, "ts":1749445964243371, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1749445964243735, "dur":5892, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Resources/unity default resources" }}
+,{ "pid":12345, "tid":19, "ts":1749445964249657, "dur":5617, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1749445964255277, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1749445964255283, "dur":2685, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.VideoModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1749445964257991, "dur":3397, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1749445964261391, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1749445964261396, "dur":4243, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UmbraModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1749445964265666, "dur":7488, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1749445964273159, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1749445964273167, "dur":1735, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.StreamingModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1749445964274935, "dur":5218, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1749445964280156, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1749445964280161, "dur":4882, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.GIModule.dll" }}
+,{ "pid":12345, "tid":19, "ts":1749445964285073, "dur":322000, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":19, "ts":1749445964607079, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1749445964607090, "dur":2304, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/Unity.Timeline.dll" }}
+,{ "pid":12345, "tid":19, "ts":1749445964609441, "dur":47, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":19, "ts":1749445964609491, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1749445964609566, "dur":2433, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Resources/unity_builtin_extra" }}
+,{ "pid":12345, "tid":19, "ts":1749445964612047, "dur":48, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":19, "ts":1749445964612099, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1749445964612108, "dur":2379, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/sharedassets3.assets.resS" }}
+,{ "pid":12345, "tid":19, "ts":1749445964614532, "dur":44, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":19, "ts":1749445964614579, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1749445964614587, "dur":1442, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/sharedassets3.assets" }}
+,{ "pid":12345, "tid":19, "ts":1749445964616089, "dur":42, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":19, "ts":1749445964616134, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1749445964616142, "dur":6449, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/sharedassets2.resource" }}
+,{ "pid":12345, "tid":19, "ts":1749445964622651, "dur":39, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":19, "ts":1749445964622693, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1749445964622702, "dur":6501, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/sharedassets2.assets.resS" }}
+,{ "pid":12345, "tid":19, "ts":1749445964629242, "dur":37, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":19, "ts":1749445964629282, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1749445964629290, "dur":1834, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/sharedassets2.assets" }}
+,{ "pid":12345, "tid":19, "ts":1749445964631176, "dur":52, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":19, "ts":1749445964631232, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":19, "ts":1749445964631243, "dur":115760, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/sharedassets1.assets.resS" }}
+,{ "pid":12345, "tid":19, "ts":1749445964877122, "dur":570815, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1749445964234298, "dur":0, "ph":"X", "name": "FirstLock",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1749445964234298, "dur":2061, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1749445964236364, "dur":388, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":20, "ts":1749445964236755, "dur":0, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1749445964252414, "dur":2595, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/MonoBleedingEdge/etc/mono/4.5/settings.map" }}
+,{ "pid":12345, "tid":20, "ts":1749445964255048, "dur":4828, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1749445964259879, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1749445964259884, "dur":4806, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.UnityConnectModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1749445964264730, "dur":5336, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1749445964270069, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1749445964270076, "dur":2378, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.SubstanceModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1749445964272475, "dur":5520, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1749445964278000, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1749445964278008, "dur":2693, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.InputModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1749445964280751, "dur":4856, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1749445964285610, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1749445964285617, "dur":3396, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/UnityEngine.AudioModule.dll" }}
+,{ "pid":12345, "tid":20, "ts":1749445964289053, "dur":141460, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":20, "ts":1749445964430535, "dur":3, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1749445964430543, "dur":804, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/Unity.Postprocessing.Runtime.dll" }}
+,{ "pid":12345, "tid":20, "ts":1749445964431367, "dur":79403, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":20, "ts":1749445964510774, "dur":1, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1749445964510780, "dur":1536, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/System.Core.dll" }}
+,{ "pid":12345, "tid":20, "ts":1749445964512338, "dur":877234, "ph":"X", "name": "CheckInputSignature",  "args": { "detail":"CopyFiles C:/Users/vantan/Documents//touch music/music game_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":20, "ts":1749445965389575, "dur":2, "ph":"X", "name": "StoreTimestampsOfNonGeneratedInputFiles",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":20, "ts":1749445965389582, "dur":4246, "ph":"X", "name": "CopyFiles",  "args": { "detail":"C:/Users/vantan/Documents//touch music/music game_Data/Managed/mscorlib.dll" }}
+,{ "pid":12345, "tid":20, "ts":1749445965393853, "dur":54200, "ph":"X", "name": "WaitingForWork", "cname":"thread_state_sleeping",  "args": { "detail":"" }}
+,{ "pid":12345, "tid":0, "ts":1749445965450747, "dur":1385, "ph":"X", "name": "ProfilerWriteOutput" }
+,
